@@ -39,11 +39,13 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechimins&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-</td><td valign="top" width="50%">
+<table><tr><td valign="top" width="40%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leechimins&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-</td></tr></table>  
+</td><td valign="top" width="30%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechimins&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+</td><td valign="top" width="30%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=leechimins&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+</td></tr></table>
 <br/>  
 
 ## Recent Blog Posts  
