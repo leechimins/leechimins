@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/leechimins/leechimins/blob/main/banner-1571858_1280.jpg?raw=true" align="center" style="width: 100%" />
+<img src="stars-2371478_1280.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">개발 지망생 👨‍💻</div>  
