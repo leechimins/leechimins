@@ -1,5 +1,5 @@
 <div align="center">
-<img src="insert-image-url-here" align="center" style="width: 100%" />
+<img src="https://data.editor-ac.com/data/thumbnails/templates/8d76b0e7dad29c816c49df78eea11dd3/8d76b0e7dad29c816c49df78eea11dd3-1500.webp" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">개발 지망생 👨‍💻</div>  
@@ -39,9 +39,9 @@
 <br/>  
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leechimins&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechimins&hide_border=true&layout=compact" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=leechimins&hide_border=true&layout=compact" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=leechimins&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechimins&hide_border=true&layout=compact" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/wakatime?username=leechimins&hide_border=true&layout=compact" align="center" /></div>
 <br/>
 
 ## Recent Blog Posts  
