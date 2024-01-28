@@ -47,8 +47,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=leechimins&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 </td></tr></table>
 <br/>
-[![leechimins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leechimins)]
-<br/>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
