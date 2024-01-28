@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://data.editor-ac.com/data/thumbnails/templates/8d76b0e7dad29c816c49df78eea11dd3/8d76b0e7dad29c816c49df78eea11dd3-1500.webp" align="center" style="width: 100%" />
+<img src="ddd" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">개발 지망생 👨‍💻</div>  
