@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 </div>  
   
 
-### <div align="center">동덕여자대학교에 재학중인 개발 지망생 이지민 👨‍💻</div>  
+### <div align="center">개발 지망생 👨‍💻</div>  
   
 - 🔭 게임 개발자를 희망하는 개발 지망생입니다.  
 - 🌱 저는 현재 웹 개발과 Python, C, JAVA에 대해 배우고 있습니다.  
