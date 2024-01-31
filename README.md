@@ -39,9 +39,9 @@
 <br/>  
 
 ## Github Stats
-<div><img src="https://github-readme-stats.vercel.app/api?username=leechimins&show_icons=true&count_private=true" align="center" /></div>  
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechimins&layout=compact" align="center" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api/wakatime?username=leechimins&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=leechimins&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechimins&layout=compact" align="center&hide_border=true" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/wakatime?username=leechimins&include_all_commits=true&count_private=true&layout=compact&hide_border=true" align="center" /></div>
 <br/>
 
 ## Recent Blog Posts  
