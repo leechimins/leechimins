@@ -54,5 +54,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=leechimins&&style=flat-square" align="center" />
 </div>
 <br />
+
 ---
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
