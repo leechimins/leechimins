@@ -4,9 +4,9 @@ int StN(char word[]);
 void FizzBuzz(int num);
 
 int main(void) {
+	int num;
 	char input[3][9];
 	for (int i = 0; i < 3; i++) scanf("%s", input[i]);
-	int num;
 
 	if (StN(input[0])) num = StN(input[0]) + 3;
 	else if (StN(input[1])) num = StN(input[1]) + 2;
@@ -23,14 +23,13 @@ int StN(char word[]) {
 
 	for (int i = 0; i < len; i++)
 		if ('0' <= word[i] && word[i] <= '9') {
-			num *= 10;
-			num += word[i] - '0';
+			num = num * 10 + word[i] - '0';
 		}
 		else return 0;
 	return num;
 }
 void FizzBuzz(int num) {
-	if (num % 3 == 0 && num % 5 == 0) printf("FizzBuzz");
+	if (num % 15 == 0) printf("FizzBuzz");
 	else if (num % 3 == 0) printf("Fizz");
 	else if (num % 5 == 0) printf("Buzz");
 	else printf("%d", num);
