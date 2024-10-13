@@ -1,37 +1,18 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int StN(char word[]);
-int FizzBuzz(int num);
+void FizzBuzz(int num);
 
 int main(void) {
-	int num[3], flag;
 	char input[3][9];
-	for (int i = 0; i < 3; i++) {
-		scanf("%s", input[i]);
-	}
+	for (int i = 0; i < 3; i++) scanf("%s", input[i]);
+	int num;
 
-	if (StN(input[0])) {
-		num[0] = StN(input[0]);
-		num[1] = num[0] + 1;
-		num[2] = num[0] + 2;
-	}
-	else if (StN(input[1])) {
-		num[1] = StN(input[1]);
-		num[0] = num[1] - 1;
-		num[2] = num[1] + 1;
-	}
-	else {
-		num[2] = StN(input[2]);
-		num[1] = num[2] - 1;
-		num[0] = num[2] - 2;
-	}
+	if (StN(input[0])) num = StN(input[0]) + 3;
+	else if (StN(input[1])) num = StN(input[1]) + 2;
+	else num = StN(input[2]) + 1;
 
-	flag = FizzBuzz(num[2] + 1);
-	if (flag == -1) printf("FizzBuzz");
-	else if (flag == -2) printf("Fizz");
-	else if (flag == -3) printf("Buzz");
-	else printf("%d", flag);
+	FizzBuzz(num);
 
 	return 0;
 }
@@ -48,9 +29,9 @@ int StN(char word[]) {
 		else return 0;
 	return num;
 }
-int FizzBuzz(int num) {
-	if (num % 3 == 0 && num % 5 == 0) return -1;
-	else if (num % 3 == 0) return -2;
-	else if (num % 5 == 0) return -3;
-	else return num;
+void FizzBuzz(int num) {
+	if (num % 3 == 0 && num % 5 == 0) printf("FizzBuzz");
+	else if (num % 3 == 0) printf("Fizz");
+	else if (num % 5 == 0) printf("Buzz");
+	else printf("%d", num);
 }
