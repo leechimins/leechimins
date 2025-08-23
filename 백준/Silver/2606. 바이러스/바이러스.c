@@ -7,7 +7,7 @@ int main(void) {
 
 	scanf("%d", &N);
 	scanf("%d", &M);
-	N2 = N * (N + 1);
+	N2 = N * N;
 
 	while (M--) {
 		scanf("%d %d", &c1, &c2);
